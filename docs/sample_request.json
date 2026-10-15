@@ -1,0 +1,41 @@
+{
+  "machine_id": "M01",
+  "readings": [
+    {
+      "timestamp": "2026-05-08T05:00:00",
+      "temperature": 67.17,
+      "vibration": 4.44,
+      "current": 9.36
+    },
+    {
+      "timestamp": "2026-05-08T06:00:00",
+      "temperature": 63.74,
+      "vibration": 4.79,
+      "current": 9.56
+    },
+    {
+      "timestamp": "2026-05-08T07:00:00",
+      "temperature": 67.36,
+      "vibration": 5.11,
+      "current": 9.72
+    },
+    {
+      "timestamp": "2026-05-08T08:00:00",
+      "temperature": 67.51,
+      "vibration": 4.61,
+      "current": 10.58
+    },
+    {
+      "timestamp": "2026-05-08T09:00:00",
+      "temperature": 65.97,
+      "vibration": 4.53,
+      "current": 10.22
+    },
+    {
+      "timestamp": "2026-05-08T10:00:00",
+      "temperature": 70.57,
+      "vibration": 5.89,
+      "current": 11.08
+    }
+  ]
+}
